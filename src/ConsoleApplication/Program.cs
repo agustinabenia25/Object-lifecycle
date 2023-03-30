@@ -9,14 +9,10 @@ using ClassLibrary;
 
 namespace ConsoleApplication
 {
-    /// <summary>
-    /// Programa de consola de demostración.
-    /// </summary>
+    // Programa de consola de demostración.
     public static class Program
     {
-        /// <summary>
-        /// Punto de entrada al programa principal.
-        /// </summary>
+        // Punto de entrada al programa principal.
         public static void Main()
         {
             for (int x = 1; x <= 25000; x++)
